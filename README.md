@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and data science. 
 - I have mainly participated in projects on environmental monitoring data.
 - For example, there are analysis of the impact of intervention on water quality using propensity scoring techniques and 
-- analysis of the P/A(presence/absence) characteristics of water quality index species using Shapley additive expansion (SHAP), which is kind of explanable AI (XAI).
+analysis of the P/A(presence/absence) characteristics of water quality index species using Shapley additive expansion (SHAP), which is kind of explanable AI (XAI).
 
 - for simple references
 - SHAP: https://christophm.github.io/interpretable-ml-book/shap.html
