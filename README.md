@@ -8,7 +8,6 @@
 - In my current job, I primarily work on air quality prediction, development of active indoor air quality management systems and apps, and creating and deploying analysis modules for environmental monitoring data pipelines.
 
 - 🌱 I have experience in various areas such as developing machine learning algorithms, processing geospatial data, and app development. If you're interested, please feel free to contact me.
-- 📫 How to reach me
 - E-mail: rhqudrjs2@naver.com or rhqudrjs7@gmail.com
 
 <!---
