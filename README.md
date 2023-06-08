@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @SlownSteadi
-- 👀 I’m interested in machine learning and data science. 
+- 👋 Hi, I’m Byeong-geon Go
+- 👀 I mainly work in machine learning and data science.
 - I have mainly participated in projects on environmental monitoring data.
-- For example, there are analysis of the impact of intervention on water quality using propensity scoring techniques and 
-analysis of the P/A(presence/absence) characteristics of water quality index species using Shapley additive expansion (SHAP), which is kind of explanable AI (XAI).
 
-- for simple references
-- SHAP: https://christophm.github.io/interpretable-ml-book/shap.html
-- XAI: https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513
+- I completed a master's degree in environmental engineering with a focus on predicting water quality, aquatic ecosystems, and air quality using environmental monitoring data.
+- For example, there are analysis of the impact of intervention on water quality using propensity scoring techniques and analysis of the P/A(presence/absence) characteristics of water quality index species using Shapley additive expansion (SHAP), which is kind of explanable AI (XAI).
 
-- 🌱 Now, after obtaining a master's degree, I am preparing to get a job in the Data Science field.
+- In my current job, I primarily work on air quality prediction, development of active indoor air quality management systems and apps, and creating and deploying analysis modules for environmental monitoring data pipelines.
+
+- 🌱 I have experience in various areas such as developing machine learning algorithms, processing geospatial data, and app development. If you're interested, please feel free to contact me.
 - 📫 How to reach me
 - E-mail: rhqudrjs2@naver.com or rhqudrjs7@gmail.com
 
